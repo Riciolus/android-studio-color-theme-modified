@@ -256,7 +256,7 @@
 			"name": "Java: Header",
 			"scope": [
 				"storage.modifier.import",
-				"storage.modifier.package",
+				"storage.modifier.package"
 			],
 			"settings": {
 				"fontStyle": "",
@@ -527,6 +527,6 @@
 			"settings": {
 				"foreground": "#A9B7C6"
 			}
-		},
+		}
 	]
 }
