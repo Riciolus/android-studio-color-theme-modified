@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.3.2 - 05-13-2023]
+#### Added
+
+- Modified README.md
+
 ## [1.3.1 - 05-13-2023]
 #### Added
 
