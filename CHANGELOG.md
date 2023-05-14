@@ -1,7 +1,12 @@
 # Change Log
 
-## [1.3.2 - 05-13-2023]
+## [1.4.0 - 06-13-2023]
 #### Added
+
+- Menu Colors
+
+## [1.3.2 - 05-13-2023]
+#### Changed
 
 - Modified README.md
 

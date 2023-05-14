@@ -104,6 +104,14 @@
 		"terminal.ansiBrightWhite":  "#929292",
 		"panel.background": "#f3f3f3",
 		"panelTitle.activeBorder": "#4a88c7",
+		"titleBar.activeBackground": "#f2f2f2",
+		"titleBar.inactiveBackground": "#f2f2f2",
+		"titleBar.border": "#d9d9d9",
+		"menu.background": "#f2f2f2",
+		"menu.border": "#d9d9d9",
+		"menu.separatorBackground": "#d9d9d9",
+		"menubar.selectionBackground": "#2675bf",
+		"menubar.selectionForeground": "#ffffff",
 	},
 	"tokenColors": [
 		{
