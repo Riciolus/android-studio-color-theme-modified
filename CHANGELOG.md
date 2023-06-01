@@ -1,6 +1,11 @@
 # Change Log
 
-## [1.4.0 - 06-13-2023]
+## [1.4.1 - 06-01-2023]
+#### Added, Modified
+
+- Debug panel colors
+
+## [1.4.0 - 05-13-2023]
 #### Added
 
 - Menu Colors
