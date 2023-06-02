@@ -1,7 +1,12 @@
 # Change Log
 
+## [1.4.2 - 06-02-2023]
+#### Changed
+
+- Fixed Debug Console background
+
 ## [1.4.1 - 06-01-2023]
-#### Added, Modified
+#### Added, Changed
 
 - Debug panel colors
 
