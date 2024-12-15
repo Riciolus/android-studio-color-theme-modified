@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.4.3 - 11-10-2024]
+#### Changed
+
+- Fixed Editor Gutter background
+
 ## [1.4.2 - 06-02-2023]
 #### Changed
 

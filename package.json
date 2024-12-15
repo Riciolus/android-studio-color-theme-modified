@@ -1,18 +1,19 @@
 {
-  "name": "android-studio-color-theme",
-  "displayName": "Android Studio Default Themes",
-  "description": "Default themes used in Android Studio",
-  "version": "1.4.1",
+  "name": "android-studio-color-theme-modified",
+  "displayName": "Android Studio (Darcula) Modified",
+  "description": "A modified version of the Android Studio Darcula theme.",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.0.0"
   },
-  "publisher": "ShayanAhmedKhan",
+  "publisher": "riciolus",
   "author": {
-    "name": "Shayan Ahmed Khan"
+    "name": "Shayan Ahmed Khan",
+    "url": "https://github.com/DevShayan/android-studio-color-theme.git"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DevShayan/android-studio-color-theme.git"
+    "url": "https://github.com/Riciolus/android-studio-color-theme-modified"
   },
   "license": "MIT",
   "keywords": [
@@ -30,15 +31,13 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darcula (Android Studio)",
+        "label": "Darcula (Android Studio) Modified",
         "uiTheme": "vs-dark",
         "path": "./themes/android-studio darcula-color-theme.json"
-      },
-      {
-        "label": "Intellij light (Android Studio)",
-        "uiTheme": "vs",
-        "path": "./themes/intellij-light-color-theme.json"
       }
     ]
+  },
+  "__metadata": {
+    "size": 506360
   }
 }
